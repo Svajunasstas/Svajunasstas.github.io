@@ -94,6 +94,7 @@ body{
 .copyright{
     text-align: center;
     color: white;
+    margin-bottom:50px;
 }
 .copyright span{
     color: rgb(28, 135, 236);
