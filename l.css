@@ -102,6 +102,7 @@ body{
 main{
     width: calc(100% - 300px);
     height: 100vh;
+    margin-left:300px;
     background-image: url(images/pagrindinefoto.jpg);
     background-size: cover;
     display: flex;
