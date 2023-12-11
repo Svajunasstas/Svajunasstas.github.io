@@ -393,10 +393,10 @@ main p{
     font-size: large;
 }
 .formules .formules_elementas{
-    margin-left:550px;
+    margin-left:350px;
 }
 .formules .svg_pav{
     width:100px;
     height:100px;
-    margin: 0 10%;
+    margin: 0 100px;
 }
